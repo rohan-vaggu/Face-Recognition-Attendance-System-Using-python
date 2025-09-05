@@ -1,4 +1,4 @@
-📌 Project: Face Recognition Attendance System
+#📌 Project: Face Recognition Attendance System
 
 Description:
 Developed a real-time attendance system using Python, OpenCV, Tkinter, and MySQL. The system detects and recognizes student faces, logs attendance automatically in CSV/DB, and provides features like secure login/registration, password recovery, chatbot support, and a clean multi-window GUI.
